@@ -1,0 +1,473 @@
+Start: Mon Jul  3 16:13:57 2017
+
++---------------------+-----------------+-------------------+
+|    Random Jungle    |       2.0.0     |        2013       |
++---------------------+-----------------+-------------------+
+|     2008-2011 Daniel F Schwarz et al.,                    |
+|     2011-2013 Jochen Kruppa et al.,                       |
+|               jochen.kruppa@imbs-uni.luebeck.de           |
++-----------------------------------------------------------+
+|     Source: http://www.randomjungle.de                    |
+|     Help:   http://groups.google.com/group/randomjungle   |
++-----------------------------------------------------------+
+
+Output to: output/rjungle.scrambled.2.*
+Loading data... 
+Read 746 row(s) and 55 column(s).
+Use 746 row(s) and 55 column(s).
+Dependent variable name: SCID_AgeOnset
+Growing jungle...
+Number of variables: 55 (mtry = 19)
+1 thread(s) growing 1000 tree(s)
+Growing time estimate: ~1 min.
+progress: 10%
+progress: 20%
+progress: 30%
+progress: 40%
+progress: 50%
+progress: 60%
+progress: 70%
+progress: 80%
+progress: 90%
+Generating and collecting output data...
+Writing accuracy information...
+Calculating confusion matrix...
+
+Growing time: 85.31 sec
+Elapsed time: 86 sec
+Finished: Mon Jul  3 16:15:23 2017
+
+Start: Mon Jul  3 16:15:23 2017
+
++---------------------+-----------------+-------------------+
+|    Random Jungle    |       2.0.0     |        2013       |
++---------------------+-----------------+-------------------+
+|     2008-2011 Daniel F Schwarz et al.,                    |
+|     2011-2013 Jochen Kruppa et al.,                       |
+|               jochen.kruppa@imbs-uni.luebeck.de           |
++-----------------------------------------------------------+
+|     Source: http://www.randomjungle.de                    |
+|     Help:   http://groups.google.com/group/randomjungle   |
++-----------------------------------------------------------+
+
+Output to: output/rjungle.scrambled.3.*
+Loading data... 
+Read 746 row(s) and 55 column(s).
+Use 746 row(s) and 55 column(s).
+Dependent variable name: SCID_AgeOnset
+Growing jungle...
+Number of variables: 55 (mtry = 19)
+1 thread(s) growing 1000 tree(s)
+Growing time estimate: ~1 min.
+progress: 10%
+progress: 20%
+progress: 30%
+progress: 40%
+progress: 50%
+progress: 60%
+progress: 70%
+progress: 80%
+progress: 90%
+Generating and collecting output data...
+Writing accuracy information...
+Calculating confusion matrix...
+
+Growing time: 84.18 sec
+Elapsed time: 84 sec
+Finished: Mon Jul  3 16:16:47 2017
+
+Start: Mon Jul  3 16:16:47 2017
+
++---------------------+-----------------+-------------------+
+|    Random Jungle    |       2.0.0     |        2013       |
++---------------------+-----------------+-------------------+
+|     2008-2011 Daniel F Schwarz et al.,                    |
+|     2011-2013 Jochen Kruppa et al.,                       |
+|               jochen.kruppa@imbs-uni.luebeck.de           |
++-----------------------------------------------------------+
+|     Source: http://www.randomjungle.de                    |
+|     Help:   http://groups.google.com/group/randomjungle   |
++-----------------------------------------------------------+
+
+Output to: output/rjungle.scrambled.4.*
+Loading data... 
+Read 746 row(s) and 55 column(s).
+Use 746 row(s) and 55 column(s).
+Dependent variable name: SCID_AgeOnset
+Growing jungle...
+Number of variables: 55 (mtry = 19)
+1 thread(s) growing 1000 tree(s)
+Growing time estimate: ~1 min.
+progress: 10%
+progress: 20%
+progress: 30%
+progress: 40%
+progress: 50%
+progress: 60%
+progress: 70%
+progress: 80%
+progress: 90%
+Generating and collecting output data...
+Writing accuracy information...
+Calculating confusion matrix...
+
+Growing time: 85.02 sec
+Elapsed time: 85 sec
+Finished: Mon Jul  3 16:18:12 2017
+
+Start: Mon Jul  3 16:18:12 2017
+
++---------------------+-----------------+-------------------+
+|    Random Jungle    |       2.0.0     |        2013       |
++---------------------+-----------------+-------------------+
+|     2008-2011 Daniel F Schwarz et al.,                    |
+|     2011-2013 Jochen Kruppa et al.,                       |
+|               jochen.kruppa@imbs-uni.luebeck.de           |
++-----------------------------------------------------------+
+|     Source: http://www.randomjungle.de                    |
+|     Help:   http://groups.google.com/group/randomjungle   |
++-----------------------------------------------------------+
+
+Output to: output/rjungle.scrambled.5.*
+Loading data... 
+Read 746 row(s) and 55 column(s).
+Use 746 row(s) and 55 column(s).
+Dependent variable name: SCID_AgeOnset
+Growing jungle...
+Number of variables: 55 (mtry = 19)
+1 thread(s) growing 1000 tree(s)
+Growing time estimate: ~1 min.
+progress: 10%
+progress: 20%
+progress: 30%
+progress: 40%
+progress: 50%
+progress: 60%
+progress: 70%
+progress: 80%
+progress: 90%
+Generating and collecting output data...
+Writing accuracy information...
+Calculating confusion matrix...
+
+Growing time: 84 sec
+Elapsed time: 84 sec
+Finished: Mon Jul  3 16:19:36 2017
+
+Start: Mon Jul  3 16:19:36 2017
+
++---------------------+-----------------+-------------------+
+|    Random Jungle    |       2.0.0     |        2013       |
++---------------------+-----------------+-------------------+
+|     2008-2011 Daniel F Schwarz et al.,                    |
+|     2011-2013 Jochen Kruppa et al.,                       |
+|               jochen.kruppa@imbs-uni.luebeck.de           |
++-----------------------------------------------------------+
+|     Source: http://www.randomjungle.de                    |
+|     Help:   http://groups.google.com/group/randomjungle   |
++-----------------------------------------------------------+
+
+Output to: output/rjungle.scrambled.6.*
+Loading data... 
+Read 746 row(s) and 55 column(s).
+Use 746 row(s) and 55 column(s).
+Dependent variable name: SCID_AgeOnset
+Growing jungle...
+Number of variables: 55 (mtry = 19)
+1 thread(s) growing 1000 tree(s)
+Growing time estimate: ~1 min.
+progress: 10%
+progress: 20%
+progress: 30%
+progress: 40%
+progress: 50%
+progress: 60%
+progress: 70%
+progress: 80%
+progress: 90%
+Generating and collecting output data...
+Writing accuracy information...
+Calculating confusion matrix...
+
+Growing time: 84.99 sec
+Elapsed time: 85 sec
+Finished: Mon Jul  3 16:21:01 2017
+
+Start: Mon Jul  3 16:21:01 2017
+
++---------------------+-----------------+-------------------+
+|    Random Jungle    |       2.0.0     |        2013       |
++---------------------+-----------------+-------------------+
+|     2008-2011 Daniel F Schwarz et al.,                    |
+|     2011-2013 Jochen Kruppa et al.,                       |
+|               jochen.kruppa@imbs-uni.luebeck.de           |
++-----------------------------------------------------------+
+|     Source: http://www.randomjungle.de                    |
+|     Help:   http://groups.google.com/group/randomjungle   |
++-----------------------------------------------------------+
+
+Output to: output/rjungle.scrambled.7.*
+Loading data... 
+Read 746 row(s) and 55 column(s).
+Use 746 row(s) and 55 column(s).
+Dependent variable name: SCID_AgeOnset
+Growing jungle...
+Number of variables: 55 (mtry = 19)
+1 thread(s) growing 1000 tree(s)
+Growing time estimate: ~1 min.
+progress: 10%
+progress: 20%
+progress: 30%
+progress: 40%
+progress: 50%
+progress: 60%
+progress: 70%
+progress: 80%
+progress: 90%
+Generating and collecting output data...
+Writing accuracy information...
+Calculating confusion matrix...
+
+Growing time: 84.02 sec
+Elapsed time: 84 sec
+Finished: Mon Jul  3 16:22:25 2017
+
+Start: Mon Jul  3 16:22:25 2017
+
++---------------------+-----------------+-------------------+
+|    Random Jungle    |       2.0.0     |        2013       |
++---------------------+-----------------+-------------------+
+|     2008-2011 Daniel F Schwarz et al.,                    |
+|     2011-2013 Jochen Kruppa et al.,                       |
+|               jochen.kruppa@imbs-uni.luebeck.de           |
++-----------------------------------------------------------+
+|     Source: http://www.randomjungle.de                    |
+|     Help:   http://groups.google.com/group/randomjungle   |
++-----------------------------------------------------------+
+
+Output to: output/rjungle.scrambled.8.*
+Loading data... 
+Read 746 row(s) and 55 column(s).
+Use 746 row(s) and 55 column(s).
+Dependent variable name: SCID_AgeOnset
+Growing jungle...
+Number of variables: 55 (mtry = 19)
+1 thread(s) growing 1000 tree(s)
+Growing time estimate: ~1 min.
+progress: 10%
+progress: 20%
+progress: 30%
+progress: 40%
+progress: 50%
+progress: 60%
+progress: 70%
+progress: 80%
+progress: 90%
+Generating and collecting output data...
+Writing accuracy information...
+Calculating confusion matrix...
+
+Growing time: 85.23 sec
+Elapsed time: 85 sec
+Finished: Mon Jul  3 16:23:50 2017
+
+Start: Mon Jul  3 16:23:50 2017
+
++---------------------+-----------------+-------------------+
+|    Random Jungle    |       2.0.0     |        2013       |
++---------------------+-----------------+-------------------+
+|     2008-2011 Daniel F Schwarz et al.,                    |
+|     2011-2013 Jochen Kruppa et al.,                       |
+|               jochen.kruppa@imbs-uni.luebeck.de           |
++-----------------------------------------------------------+
+|     Source: http://www.randomjungle.de                    |
+|     Help:   http://groups.google.com/group/randomjungle   |
++-----------------------------------------------------------+
+
+Output to: output/rjungle.scrambled.9.*
+Loading data... 
+Read 746 row(s) and 55 column(s).
+Use 746 row(s) and 55 column(s).
+Dependent variable name: SCID_AgeOnset
+Growing jungle...
+Number of variables: 55 (mtry = 19)
+1 thread(s) growing 1000 tree(s)
+Growing time estimate: ~1 min.
+progress: 10%
+progress: 20%
+progress: 30%
+progress: 40%
+progress: 50%
+progress: 60%
+progress: 70%
+progress: 80%
+progress: 90%
+Generating and collecting output data...
+Writing accuracy information...
+Calculating confusion matrix...
+
+Growing time: 85.59 sec
+Elapsed time: 86 sec
+Finished: Mon Jul  3 16:25:16 2017
+
+Start: Mon Jul  3 16:25:16 2017
+
++---------------------+-----------------+-------------------+
+|    Random Jungle    |       2.0.0     |        2013       |
++---------------------+-----------------+-------------------+
+|     2008-2011 Daniel F Schwarz et al.,                    |
+|     2011-2013 Jochen Kruppa et al.,                       |
+|               jochen.kruppa@imbs-uni.luebeck.de           |
++-----------------------------------------------------------+
+|     Source: http://www.randomjungle.de                    |
+|     Help:   http://groups.google.com/group/randomjungle   |
++-----------------------------------------------------------+
+
+Output to: output/rjungle.scrambled.10.*
+Loading data... 
+Read 746 row(s) and 55 column(s).
+Use 746 row(s) and 55 column(s).
+Dependent variable name: SCID_AgeOnset
+Growing jungle...
+Number of variables: 55 (mtry = 19)
+1 thread(s) growing 1000 tree(s)
+Growing time estimate: ~1 min.
+progress: 10%
+progress: 20%
+progress: 30%
+progress: 40%
+progress: 50%
+progress: 60%
+progress: 70%
+progress: 80%
+progress: 90%
+Generating and collecting output data...
+Writing accuracy information...
+Calculating confusion matrix...
+
+Growing time: 84.22 sec
+Elapsed time: 84 sec
+Finished: Mon Jul  3 16:26:40 2017
+
+Start: Mon Jul  3 16:26:40 2017
+
++---------------------+-----------------+-------------------+
+|    Random Jungle    |       2.0.0     |        2013       |
++---------------------+-----------------+-------------------+
+|     2008-2011 Daniel F Schwarz et al.,                    |
+|     2011-2013 Jochen Kruppa et al.,                       |
+|               jochen.kruppa@imbs-uni.luebeck.de           |
++-----------------------------------------------------------+
+|     Source: http://www.randomjungle.de                    |
+|     Help:   http://groups.google.com/group/randomjungle   |
++-----------------------------------------------------------+
+
+Output to: output/rjungle.scrambled.11.*
+Loading data... 
+Read 746 row(s) and 55 column(s).
+Use 746 row(s) and 55 column(s).
+Dependent variable name: SCID_AgeOnset
+Growing jungle...
+Number of variables: 55 (mtry = 19)
+1 thread(s) growing 1000 tree(s)
+Growing time estimate: ~1 min.
+progress: 10%
+progress: 20%
+progress: 30%
+progress: 40%
+progress: 50%
+progress: 60%
+progress: 70%
+progress: 80%
+progress: 90%
+Generating and collecting output data...
+Writing accuracy information...
+Calculating confusion matrix...
+
+Growing time: 85.25 sec
+Elapsed time: 85 sec
+Finished: Mon Jul  3 16:28:05 2017
+
+Start: Mon Jul  3 16:28:05 2017
+
++---------------------+-----------------+-------------------+
+|    Random Jungle    |       2.0.0     |        2013       |
++---------------------+-----------------+-------------------+
+|     2008-2011 Daniel F Schwarz et al.,                    |
+|     2011-2013 Jochen Kruppa et al.,                       |
+|               jochen.kruppa@imbs-uni.luebeck.de           |
++-----------------------------------------------------------+
+|     Source: http://www.randomjungle.de                    |
+|     Help:   http://groups.google.com/group/randomjungle   |
++-----------------------------------------------------------+
+
+Output to: output/rjungle.scrambled.12.*
+Loading data... 
+Read 746 row(s) and 55 column(s).
+Use 746 row(s) and 55 column(s).
+Dependent variable name: SCID_AgeOnset
+Growing jungle...
+Number of variables: 55 (mtry = 19)
+1 thread(s) growing 1000 tree(s)
+Growing time estimate: ~1 min.
+progress: 10%
+progress: 20%
+progress: 30%
+progress: 40%
+progress: 50%
+progress: 60%
+progress: 70%
+progress: 80%
+progress: 90%
+Generating and collecting output data...
+Writing accuracy information...
+Calculating confusion matrix...
+
+Growing time: 85.18 sec
+Elapsed time: 85 sec
+Finished: Mon Jul  3 16:29:30 2017
+
+Start: Mon Jul  3 16:29:30 2017
+
++---------------------+-----------------+-------------------+
+|    Random Jungle    |       2.0.0     |        2013       |
++---------------------+-----------------+-------------------+
+|     2008-2011 Daniel F Schwarz et al.,                    |
+|     2011-2013 Jochen Kruppa et al.,                       |
+|               jochen.kruppa@imbs-uni.luebeck.de           |
++-----------------------------------------------------------+
+|     Source: http://www.randomjungle.de                    |
+|     Help:   http://groups.google.com/group/randomjungle   |
++-----------------------------------------------------------+
+
+Output to: output/rjungle.scrambled.13.*
+Loading data... 
+Read 746 row(s) and 55 column(s).
+Use 746 row(s) and 55 column(s).
+Dependent variable name: SCID_AgeOnset
+Growing jungle...
+Number of variables: 55 (mtry = 19)
+1 thread(s) growing 1000 tree(s)
+Growing time estimate: ~1 min.
+progress: 10%
+progress: 20%
+progress: 30%
+  notice: Q: "...sara_stats": -------------------Begin of SURFsara epilogue----------------------------------
+Q: "...sara_stats": This output was generated by the SURFsara epilogue script
+Q: "...sara_stats": Your job [process_rjungle.scrambled.sh] has been executed in queue [serial] with
+Q: "...sara_stats": the following PBS arguments:
+Q: "...sara_stats":    ncpus=1,neednodes=1:cores16:ppn=16,nodes=1:cores16:ppn=16,walltime=48:00:00
+Q: "...sara_stats":    .
+Q: "...sara_stats": Resources used in job [592585.batch1.lisa.surfsara.nl] with name [process_rjungle.scrambled.sh]:
+Q: "...sara_stats":    cput=00:16:02,energy_used=0,mem=62864kb,vmem=259832kb,walltime=00:16:05
+Q: "...sara_stats":    r12n16.lisa.surfsara.nl
+Q: "...sara_stats":    .
+Q: "...sara_stats": Job start and end time:
+Q: "...sara_stats":   Job start time: Mon Jul  3 16:13:56 CEST 2017
+Q: "...sara_stats":   Job end time  : Mon Jul  3 16:30:00 CEST 2017
+Q: "...sara_stats": ---------------------------------------------------------------------------
+Q: "...sara_stats": WARNING: It seems that this job did not use scratch space.
+Q: "...sara_stats": WARNING: It is strongly recommended to do so. See the following URL
+Q: "...sara_stats":          for more information:
+Q: "...sara_stats":  - https://www.surfsara.nl/systems/lisa/filesystems#The_scratch_file_system
+Q: "...sara_stats": ---------------------End of SURFsara epilogue----------------------------------
