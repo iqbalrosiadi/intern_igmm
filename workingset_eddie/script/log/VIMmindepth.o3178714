@@ -1,0 +1,77 @@
+running forests ...
+minimal depth variable selection ...
+
+
+-----------------------------------------------------------
+family             : regr 
+var. selection     : Minimal Depth 
+conservativeness   : medium 
+x-weighting used?  : TRUE 
+dimension          : 54 
+sample size        : 746 
+ntree              : 1000 
+nsplit             : 10 
+mtry               : 19 
+nodesize           : 2 
+refitted forest    : FALSE 
+model size         : 53 
+depth threshold    : 9.3765 
+PE (true OOB)      : 179.2759 
+
+
+Top variables:
+             depth   vimp
+BIP1_SCORE   4.008  0.965
+ASD1_SCORE   4.049  0.758
+ALZ5_SCORE   4.450  0.803
+COG1_SCORE   4.592  0.865
+ASD2_SCORE   4.662  1.798
+NEU1_SCORE   4.672 -0.102
+NEU3_SCORE   4.672  0.673
+NEU2_SCORE   4.695  0.495
+NEU5_SCORE   4.700  1.788
+ALZ4_SCORE   4.726  0.737
+NEU4_SCORE   4.759  1.107
+XDO1_SCORE   4.760  0.823
+SCZ1_SCORE   4.805  0.919
+ALZ1_SCORE   4.828  0.055
+BIP5_SCORE   4.839  1.152
+COG5_SCORE   4.850  0.452
+COG2_SCORE   4.852  0.575
+COG3_SCORE   4.864  0.591
+ASD4_SCORE   4.875  1.117
+COG4_SCORE   4.886  0.364
+SCZ3_SCORE   4.886  1.234
+IID          4.908 -0.904
+BIP3_SCORE   4.930  0.684
+BIP4_SCORE   4.931  1.056
+ALZ2_SCORE   4.982  0.362
+XDO4_SCORE   4.985  1.515
+BIP2_SCORE   4.994  0.578
+XDO5_SCORE   5.034  0.854
+ASD3_SCORE   5.055  0.527
+ASD5_SCORE   5.062  1.156
+SCZ5_SCORE   5.078  1.147
+SCZ2_SCORE   5.106  0.922
+XDO2_SCORE   5.109  0.554
+XDO3_SCORE   5.134  1.081
+ALZ3_SCORE   5.213  0.447
+SCZ4_SCORE   5.287  0.824
+rs668644_A   6.988  0.082
+rs1714521_C  7.049 -0.506
+rs11210072_G 7.119 -0.215
+rs11743103_C 7.159 -0.234
+rs6732310_A  7.194 -0.193
+rs2273085_A  7.241  0.191
+rs7647854_G  7.398  0.585
+rs301806_G   7.413 -0.246
+rs10786831_A 7.473 -0.136
+rs12552_A    7.513 -0.397
+rs7044150_A  7.515 -0.477
+rs34320_A    7.527 -0.144
+rs2815752_G  7.697 -0.414
+rs12065553_G 7.771 -0.037
+rs6476606_A  7.911 -0.185
+rs2125716_A  8.688 -0.266
+SEX          9.024  0.238
+-----------------------------------------------------------

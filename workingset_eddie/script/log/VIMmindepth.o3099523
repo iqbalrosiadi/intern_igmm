@@ -1,0 +1,75 @@
+running forests ...
+minimal depth variable selection ...
+
+
+-----------------------------------------------------------
+family             : regr 
+var. selection     : Minimal Depth 
+conservativeness   : medium 
+x-weighting used?  : TRUE 
+dimension          : 53 
+sample size        : 746 
+ntree              : 1000 
+nsplit             : 10 
+mtry               : 19 
+nodesize           : 2 
+refitted forest    : FALSE 
+model size         : 51 
+depth threshold    : 9.0692 
+PE (true OOB)      : 178.5924 
+
+
+Top variables:
+             depth   vimp
+BIP2_SCORE   3.774  2.118
+IID          4.137 -0.174
+XDO1_SCORE   4.292  0.901
+ASD1_SCORE   4.297  0.287
+NEU2_SCORE   4.330  0.012
+NEU1_SCORE   4.482 -0.305
+NEU4_SCORE   4.547  0.518
+BIP1_SCORE   4.560 -0.360
+SCZ1_SCORE   4.561  0.078
+COG2_SCORE   4.607  0.669
+ALZ5_SCORE   4.621  0.786
+BIP3_SCORE   4.634  1.784
+ASD2_SCORE   4.635  0.381
+ASD3_SCORE   4.646  0.474
+ALZ1_SCORE   4.657 -0.524
+BIP4_SCORE   4.672  1.249
+XDO2_SCORE   4.704 -0.421
+ALZ4_SCORE   4.749  0.544
+BIP5_SCORE   4.751  1.504
+COG3_SCORE   4.779  0.902
+ASD4_SCORE   4.784  0.513
+COG1_SCORE   4.811  0.336
+ASD5_SCORE   4.822  0.451
+NEU5_SCORE   4.824  0.301
+SCZ4_SCORE   4.824  0.848
+NEU3_SCORE   4.866  0.808
+XDO3_SCORE   4.881 -0.328
+ALZ2_SCORE   4.961  0.159
+ALZ3_SCORE   4.993  0.615
+SCZ2_SCORE   5.010  1.218
+COG5_SCORE   5.062  0.739
+COG4_SCORE   5.120  0.571
+XDO4_SCORE   5.133  0.314
+XDO5_SCORE   5.150  0.786
+SCZ3_SCORE   5.210  0.886
+rs11743103_C 6.296  0.447
+rs12065553_G 6.669 -0.295
+rs34320_A    6.690 -0.167
+rs1714521_C  6.691 -0.125
+rs12552_A    6.748 -0.056
+rs301806_G   7.021 -0.058
+rs6476606_A  7.055  0.177
+rs11210072_G 7.119 -0.101
+rs6732310_A  7.150  0.117
+rs10786831_A 7.276 -0.367
+rs668644_A   7.375 -0.019
+rs7044150_A  7.389  0.085
+rs2815752_G  7.431 -0.226
+rs2273085_A  7.735 -0.055
+rs7647854_G  8.133  0.036
+rs2125716_A  8.489  0.332
+-----------------------------------------------------------
