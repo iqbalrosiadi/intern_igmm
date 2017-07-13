@@ -12,13 +12,13 @@ for(j in 1:500){
 	rjungle.2.importance2<-rjungle.2.importance2[order(rjungle.2.importance2[,3]) ,3:8]
 	rjungle.2.importance<-rjungle.2.importance[order(rjungle.2.importance[,3]) ,3:4]
 	#append from transposed matrix
-	rjungle.2.imp2.rawscore<-rbind(rjungle.2.imp2.rawscore,t(rjungle.2.importance2[1:54,3]))
-	rjungle.2.imp2.breiman<-rbind(rjungle.2.imp2.breiman, t(rjungle.2.importance2[1:54,4]))
-	rjungle.2.imp2.liaw<-rbind(rjungle.2.imp2.liaw,t(rjungle.2.importance2[1:54,5]))
-	rjungle.2.imp2.meng<-rbind(rjungle.2.imp2.meng,t(rjungle.2.importance2[1:54,6]))
-	trjungle.2.importance<-rbind(trjungle.2.importance,t(rjungle.2.importance[1:54,2]))
+	rjungle.2.imp2.rawscore<-rbind(rjungle.2.imp2.rawscore,t(rjungle.2.importance2[1:53,3]))
+	rjungle.2.imp2.breiman<-rbind(rjungle.2.imp2.breiman, t(rjungle.2.importance2[1:53,4]))
+	rjungle.2.imp2.liaw<-rbind(rjungle.2.imp2.liaw,t(rjungle.2.importance2[1:53,5]))
+	rjungle.2.imp2.meng<-rbind(rjungle.2.imp2.meng,t(rjungle.2.importance2[1:53,6]))
+	trjungle.2.importance<-rbind(trjungle.2.importance,t(rjungle.2.importance[1:53,2]))
 }
-colnames(random_seed)<-paste("rseed")
+#colnames(random_seed)<-paste("rseed")
 colnames(trjungle.2.importance)<-t(rjungle.2.importance[,1])
 colnames(rjungle.2.imp2.rawscore)<-t(rjungle.2.importance2[,1])
 colnames(rjungle.2.imp2.breiman)<-t(rjungle.2.importance2[,1])

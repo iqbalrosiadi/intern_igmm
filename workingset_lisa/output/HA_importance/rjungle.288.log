@@ -3,14 +3,14 @@ delimiter:
 treetype: 1
 ntree: 1000
 mtry: 19
-depvar: 1
+depvar: 0
 depvarname: SCID_AgeOnset
 categories: 0
 nrow: 746
-ncol: 55
+ncol: 54
 varnamesrow: 0
 depvarcol: 0
-outprefix: output/rjungle.288
+outprefix: output/HA_importance/rjungle.288
 skiprow: 0
 skipcol: 0
 missingcode: -99
@@ -35,7 +35,7 @@ sampleproximities: 0
 weightsim: 0
 extractdata: 0
 yaimp: 0
-seeed: 568
+seeed: 669
 nthreads: 0
 pedfile: 0
 maxTreeDepth: 15000

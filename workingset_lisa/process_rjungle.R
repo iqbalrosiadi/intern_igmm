@@ -2,11 +2,12 @@ library(MASS)
 ## File handling for Random Jungle
 rjungleExe <- file.path("rjungle")
 rjungleInFile <- file.path("input/finaldatainput")
-rjungleOutFile <- file.path("output/rjungle")
+rjungleOutFile <- file.path("output/HA_importance/rjungle")
 random_seed<-read.table(paste("input/random_seed"), header=FALSE)
 
 system("module load randomjungle")
-n=dim(random_seed)[1] #500
+n=dim(random_seed)[1] #501 : with header
+n=n-1 #we need only 500 time
 #n=2
 for(i in 1:n){
 		## Run Random Jungle
@@ -16,7 +17,7 @@ for(i in 1:n){
 			"-t 1000", ## 1000 trees
 			"-D SCID_AgeOnset", ## response variable name
 			"-z",
-			random_seed[i,],
+			random_seed[i+1,], #500 seeds with first row as header, so total 501
 			"-o", 
 			paste(rjungleOutFile,".",i, sep="")
 			) ## out file path

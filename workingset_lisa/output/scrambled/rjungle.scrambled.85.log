@@ -7,7 +7,7 @@ depvar: 0
 depvarname: SCID_AgeOnset
 categories: 0
 nrow: 746
-ncol: 55
+ncol: 54
 varnamesrow: 0
 depvarcol: 0
 outprefix: output/scrambled/rjungle.scrambled.85
