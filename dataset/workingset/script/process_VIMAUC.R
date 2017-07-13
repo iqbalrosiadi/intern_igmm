@@ -5,9 +5,10 @@ random_seed<-read.table(paste("input/random_seed"), header=FALSE)
 
 n=dim(random_seed)[1] #500
 n=n-1
-#n=3
-varimp<-matrix(0,nrow=n,ncol=54)
-varimpAUC<-matrix(0,nrow=n,ncol=54)
+#n=1
+varimp<-matrix(0,nrow=n,ncol=53)
+varimpAUC<-matrix(0,nrow=n,ncol=53)
+colnamelist<-names(dataf)[2:54]
 
 for(i in 1:n){
 	set.seed(random_seed[i+1,])
@@ -22,10 +23,10 @@ for(i in 1:n){
 	varimpAUC[i,]<-varimpAUC(RFf)
 }
 
-colnames(varimp)<-c(names(dataf)[1],names(dataf)[3:55])
-colnames(varimpAUC)<-c(names(dataf)[1],names(dataf)[3:55])
+colnames(varimp)<-colnamelist
+colnames(varimpAUC)<-colnamelist
 varimp<-varimp[,order(colnames(varimp))]
-varimpAUC<-varimp[,order(colnames(varimpAUC))]
+varimpAUC<-varimpAUC[,order(colnames(varimpAUC))]
 #colnames(random_seed)<-paste("rseed")
 #varimp<-cbind(random_seed,varimp)
 #varimpAUC<-cbind(random_seed,varimpAUC)

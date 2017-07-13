@@ -1,5 +1,5 @@
 #!/bin/sh
-#$ -N VIMmindepth
+#$ -N VIMmindepthORI
 #$ -cwd
 #$ -l h_rt=12:00:00
 #$ -l h_vmem=1G

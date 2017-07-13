@@ -1,5 +1,5 @@
 #!/bin/sh
-#$ -N VIMstrong
+#$ -N VIMstrongORI
 #$ -cwd
 #$ -l h_rt=16:00:00
 #$ -l h_vmem=1G

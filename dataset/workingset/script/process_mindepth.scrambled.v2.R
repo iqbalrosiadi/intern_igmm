@@ -6,9 +6,10 @@ random_seed<-read.table(paste("input/random_seed"), header=FALSE)
 #x=dim(random_seed)[1] #500
 #x=x-1
 x=500
-min_depth19<-matrix(0,nrow=x,ncol=54)
-vim19<-matrix(0,nrow=x,ncol=54)
-colnamelist<-names(mindep_dataf)[2:55]
+#x=1
+min_depth19<-matrix(0,nrow=x,ncol=53)
+vim19<-matrix(0,nrow=x,ncol=53)
+colnamelist<-names(mindep_dataf)[2:54]
 
 for(l in 1:x){
 	#set.seed(random_seed[l+1,])
@@ -19,7 +20,7 @@ for(l in 1:x){
 
 	mindepval19<-c()
 	vimval19<-c()
-	for(j in 1:54){
+	for(j in 1:53){
 		p1f=rownames(df)==colnamelist[j]
 		mindepval19<-append(mindepval19,df[p1f,1],after=length(mindepval19))
 		vimval19<-append(vimval19,df[p1f,2],after=length(vimval19))
